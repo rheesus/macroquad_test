@@ -1,1 +1,2 @@
 # macroquad_test
+init
